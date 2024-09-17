@@ -90,7 +90,8 @@ DEV_CHANNEL_USRNM = environ.get('DEV_CHANNEL_USRNM','LazyDeveloper') # WITHOUT @
 LAZY_YT_HANDLE = environ.get('LAZY_YT_HANDLE','LayDeveloperr')  # WITHOUT @ [  add only handle - don't add full url  ] 
 MOVIE_GROUP_USERNAME = environ.get('MOVIE_GROUP_USERNAME', "+tl1Ll8L8TbQwMjdl") #[ without @ ]
 
-# Url SShorLazyDeveloper= is_enabled((environ.get("URL_MODE","True")), False) # make it true to enable url shortner in groups or pm
+# Url Shortner
+URL_MODE = is_enabled((environ.get("URL_MODE","True")), False) # make it true to enable url shortner in groups or pm
 URL_SHORTENR_WEBSITE = environ.get('URL_SHORTENR_WEBSITE', 'atglinks.com') #Always use website url from api section 
 URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', '72a7f0131e5e657e37cf7e2a9e928a616b671cf5')
 lazy_groups = environ.get('LAZY_GROUPS','')
