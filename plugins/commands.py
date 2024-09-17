@@ -122,19 +122,19 @@ async def start(client, message):
             InlineKeyboardButton('🔍 Gʀᴏᴜᴘ', url=f'https://t.me/{MOVIE_GROUP_USERNAME}')
             ],[
             InlineKeyboardButton('🙆🏻 Hᴇʟᴘ', callback_data='help'),
-            InlineKeyboardButton('🎁 Hᴇʟᴘ++ ', callback_data='leech_url_help'),
+            InlineKeyboardButton('🎁 Bengali Movie ', url='https://t.me/Bengali_Movies_Bangla_movie'),
         ],[
-            InlineKeyboardButton('⚙ Sᴇᴛᴛɪɴɢs', callback_data='openSettings'),
-            InlineKeyboardButton('♥️ Aʙᴏᴜᴛ', callback_data='about')
+            InlineKeyboardButton('⚙ Bengali Dubbed', url='https://t.me/BanglaDubbedMovie20'),
+            InlineKeyboardButton('♥️ Horror Movie', url='https://t.me/Best_Horror_Movies_Hindi1')
             ],
         [
-            InlineKeyboardButton('⪦ 𝕄𝕆𝕍𝕀𝔼 ℂℍ𝔸ℕℕ𝔼𝕃 ⪧', url='https://t.me/real_MoviesAdda3')
+            InlineKeyboardButton('⪦ 𝕄𝕆𝕍𝕀𝔼 ℂℍ𝔸ℕℕ𝔼𝕃 ⪧', url='https://t.me/Freemovieswold')
         ],
         [
             InlineKeyboardButton('💸 E𝐚𝐫𝐧 M𝐨𝐧𝐞𝐲 💸', callback_data="shortlink_info")
         ],[
                 InlineKeyboardButton(
-                    "🦋 SUBSCRIBE YT Channel 🦋", url='https://youtube.com/@LazyDeveloperr'
+                    "🦋 SUBSCRIBE YT Channel 🦋", url='https://www.youtube.com/@moviesupdatechannels'
                 )
             ]
         ]
