@@ -165,7 +165,7 @@ if SELF_DELETE == "True":
     SELF_DELETE = True
 
 DISCUSSION_TITLE = "Click Here"
-DISCUSSION_CHAT_USRNM = "File_Rq_Grup" #without @
+DISCUSSION_CHAT_USRNM = "Movie_Request_Group_23" #without @
 
 # Download Tutorial Button #
 DOWNLOAD_TEXT_NAME = "📥 HOW TO DOWNLOAD 📥"
