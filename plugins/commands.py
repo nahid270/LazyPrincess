@@ -60,7 +60,7 @@ async def start(client, message):
             InlineKeyboardButton('🔍 Gʀᴏᴜᴘ', url='https://t.me/Movie_Request_Group_23')
             ],[
             InlineKeyboardButton('🙆🏻 Hᴇʟᴘ ', callback_data='help'),
-            InlineKeyboardButton('🎁 Bengail Movie', url='https://t.me/Bengali_Movies_Bangla_movie'),
+            InlineKeyboardButton('🎁 Bengail Movie', url='https://t.me/Bangla_Movies_Bengail_Movies'),
             ],[
             InlineKeyboardButton('⚙ Bengali Dubbed', url='https://t.me/BanglaDubbedMovie20'),
             InlineKeyboardButton('♥️ Horror Movie', url='https://t.me/Best_Horror_Movies_Hindi1')
@@ -122,7 +122,7 @@ async def start(client, message):
             InlineKeyboardButton('🔍 Gʀᴏᴜᴘ', url=f'https://t.me/{MOVIE_GROUP_USERNAME}')
             ],[
             InlineKeyboardButton('🙆🏻 Hᴇʟᴘ', callback_data='help'),
-            InlineKeyboardButton('🎁 Bengali Movie ', url='https://t.me/Bengali_Movies_Bangla_movie'),
+            InlineKeyboardButton('🎁 Bengali Movie ', url='https://t.me/Bangla_Movies_Bengail_Movies'),
         ],[
             InlineKeyboardButton('⚙ Bengali Dubbed', url='https://t.me/BanglaDubbedMovie20'),
             InlineKeyboardButton('♥️ Horror Movie', url='https://t.me/Best_Horror_Movies_Hindi1')
